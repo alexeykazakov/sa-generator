@@ -1,0 +1,8 @@
+# sa-generator
+
+go install
+
+----
+$ go install
+$ sa-generator -name fabric8-servicename
+----
