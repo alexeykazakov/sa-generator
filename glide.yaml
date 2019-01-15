@@ -1,7 +1,0 @@
-package: github.com/alexeykazakov/sa-generator
-import:
-- package: golang.org/x/crypto
-  subpackages:
-  - bcrypt
-- package: github.com/satori/go.uuid
-  version: v1.2.0
