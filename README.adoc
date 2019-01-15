@@ -3,6 +3,7 @@
 go install
 
 ----
+$ dep ensure
 $ go install
 $ sa-generator -name fabric8-servicename
 ----
